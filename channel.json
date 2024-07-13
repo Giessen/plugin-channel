@@ -1,4 +1,8 @@
 [
+  ///@ Added @/
+  // fzfinder
+  "https://raw.githubusercontent.com/Giessen/micro-fzfinder/main/repo.json",
+
   // EditorConfig plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/editorconfig-micro.json",
 
