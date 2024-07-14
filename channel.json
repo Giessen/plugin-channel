@@ -37,7 +37,7 @@
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-monokai-dark.json",
 
   // Manipulator plugin
-  "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/manipulator-plugin/repo.json",
+  "https://raw.githubusercontent.com/Giessen/manipulator-plugin/dev/repo.json",
 
   // Filemanager plugin
   "https://raw.githubusercontent.com/micro-editor/updated-plugins/master/filemanager-plugin/repo.json",
