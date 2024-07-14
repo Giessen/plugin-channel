@@ -48,7 +48,7 @@
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/join-lines-plugin.json",
   
   // Quoter plugin
-  "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-quoter.json",
+  //"https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-quoter.json",
   
   // Bounce plugin
   "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/plugins/micro-bounce.json",
